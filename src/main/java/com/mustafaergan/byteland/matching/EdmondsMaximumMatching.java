@@ -29,9 +29,9 @@ public class EdmondsMaximumMatching {
 	
 	/**
 	 * shape continuous join algorithm 
-	 * and this process continues until the number of edges is exhausted
+	 * and this process continues until the number of edge is exhausted
 	 * 
-	 * @param graph containing cities to be merged
+	 * @param graph is containing cities which will be merge
 	 * @return number of merger test
 	 */
 	public int executor(Graph graph) {
