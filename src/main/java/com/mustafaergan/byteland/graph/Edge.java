@@ -8,7 +8,7 @@ import java.util.List;
  * Contains edge and neighbor vertex information
  * 
  * Firstly, the emphasis is given to the fact that the edges are weighted and solved.
- * It has been observed that it will not succeed in this way and has not been changed with the thought that it may be needed later.
+ * It has been observed that it will not succeed in this way and has not been changed with the thought that it may be need later.
  * 
  * @author mustafa.ergan
  * @date 2017/12/13
