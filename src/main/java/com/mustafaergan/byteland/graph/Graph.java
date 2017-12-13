@@ -12,7 +12,7 @@ import java.util.Set;
  * 
  * There are node points and edges.
  * Graph all relationships are found in this class
- * Edges and vertices are mapped because accessibility is.
+ * Edges and vertices are mapped because of accessibility.
  * 
  * 
  * @author mustafa.ergan
@@ -72,7 +72,7 @@ public class Graph {
     
     
     /**
-     * The graph is renamed so that there are no spaces in the index
+     * The graph is renamed because of there are no spaces in the index
      */
     public void rename(){
     	int i = 0;
