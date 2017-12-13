@@ -2,7 +2,7 @@
 
 * Initially, each city is an independent State. The process of integration is divided into steps.
 
-* At each step, due to the limited number of diplomatic envoys available, a State can only be involved in a unification process with at most one other state. At each step two States can unite to form a new State, but only if there exists a road directly connecting some two cities of the uniting States.
+* At each step, due to the limited number of diplomatic envoys are available, a State can only be involved in a unification process with at most one other state. At each step two States can unite to form a new State, but only if there exists a road directly connecting some two cities of the uniting States.
 
 * The unification process is considered to be complete when all the cities belong to the same, global State.
 
@@ -34,5 +34,5 @@ For each test case, output a separate line containing one number, equal to the m
 	5
 	
 ### How To Work
-The project is a maven project. Any ide(ecilpse,netbeans etc.) maven project is import. 
-Run the App.java class that is under the com.mustafaergan.byteland package and the above input data are entered.
+The project is a maven project which you can import into aany ide(ecilpse,netbeans etc.) 
+Run the App.java class that is under the com.mustafaergan. Byteland package and the above input data are entered.
